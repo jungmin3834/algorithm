@@ -3,6 +3,7 @@
 ##https://leetcode.com/problems/self-dividing-numbers/
 
 ![CreatePlan](./image/SelfDividingNumbers)
+![title](./image/SelfDividingNumbers)
 
 ```cpp
 vector<int> selfDividingNumbers(int left, int right) {
