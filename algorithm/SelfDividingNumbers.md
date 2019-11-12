@@ -1,10 +1,10 @@
 # algorithm
 # selfDividingNumbers
 
-##巩力 傅农 
+##巩力 傅农
 ##https://leetcode.com/problems/self-dividing-numbers/
 
-![title](https://github.com/jungmin3834/algorithm/blob/master/image/SelfDividingNumbers.png){: width="100%" height="100%"}
+![title](https://github.com/jungmin3834/algorithm/blob/master/image/SelfDividingNumbers.png)
 
 ```cpp
 vector<int> selfDividingNumbers(int left, int right) {
