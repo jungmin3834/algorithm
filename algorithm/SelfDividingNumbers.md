@@ -1,9 +1,10 @@
 # algorithm
 # selfDividingNumbers
+
+##문제 링크 
 ##https://leetcode.com/problems/self-dividing-numbers/
 
-![CreatePlan](./image/SelfDividingNumbers)
-![title](https://github.com/jungmin3834/algorithm/blob/master/image/SelfDividingNumbers.png)
+![title](https://github.com/jungmin3834/algorithm/blob/master/image/SelfDividingNumbers.png){: width="100%" height="100%"}
 
 ```cpp
 vector<int> selfDividingNumbers(int left, int right) {
