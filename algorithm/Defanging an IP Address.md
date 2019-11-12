@@ -4,7 +4,7 @@
 ##문제 링크
 ##https://leetcode.com/problems/defanging-an-ip-address/
 
-![title](https://github.com/jungmin3834/algorithm/blob/master/image/Defanging an IP Address.png)
+![title](https://github.com/jungmin3834/algorithm/blob/master/image/Defanging-an-IP-Address.png)
 
 ```cpp
  string defangIPaddr(string address) {
