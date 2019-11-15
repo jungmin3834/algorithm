@@ -1,5 +1,5 @@
 # algorithm
- selfDividingNumbers
+ Sum-of-Root-To-Leaf-Binary-Numbers
 
 ##문제 링크
 ##https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
