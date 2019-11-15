@@ -1,13 +1,13 @@
 # algorithm
-# selfDividingNumbers
+ selfDividingNumbers
 
-##¹®Á¦ ¸µÅ©
+##ë¬¸ì œ ë§í¬
 ##https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
 
 ![title](https://github.com/jungmin3834/algorithm/blob/master/image/Sum-of-Root-To-Leaf-Binary-Numbers.png)
 
 
-#ÃÊ±âÈ­ ÈÄ 
+#ì´ˆê¸°í™” í›„ 
 ```cpp
 /**
  * Definition for a binary tree node.
@@ -35,7 +35,7 @@ public:
 };
 ```
 
-#ÃÊ±âÈ­ Àü 
+#ì´ˆê¸°í™” ì „ 
 ```cpp
 /**
  * Definition for a binary tree node.
