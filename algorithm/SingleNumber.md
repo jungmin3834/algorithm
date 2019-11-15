@@ -1,5 +1,5 @@
 # algorithm 
-selfDividingNumbers  
+SingleNumber  
   
   
   
