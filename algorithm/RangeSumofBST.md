@@ -1,7 +1,7 @@
 # algorithm
 # 938. Range Sum of BST
 
-##¹®Á¦ ¸µÅ©
+## ë¬¸ì œ ì£¼ì†Œ
 ##https://leetcode.com/problems/range-sum-of-bst/submissions/
 
 ![title](https://github.com/jungmin3834/algorithm/blob/master/image/RangeSumofBST.png)
