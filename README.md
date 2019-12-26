@@ -1,7 +1,7 @@
-# Algorithm ¹®Á¦ Á¤¸®
-# LeetCode »çÀÌÆ® ¾Ë°í¸®Áò ¹®Á¦ Á¤¸®ÇØµÐ °Í ÀÔ´Ï´Ù.
-# »çÀÌÆ® ÁÖ¼Ò : 
+# Algorithm ë¬¸ì œ ì •ë¦¬
+  LeetCode ì‚¬ì´íŠ¸ ì•Œê³ ë¦¬ì¦˜ ë¬¸ì œ ì •ë¦¬í•´ë‘” ê²ƒ ìž…ë‹ˆë‹¤.
+# ì‚¬ì´íŠ¸ ì£¼ì†Œ : 
 ## https://leetcode.com/
 
-# ÇÁ·ÎÇÊ 
+# í”„ë¡œí•„ 
 ## https://leetcode.com/sbj3834/
