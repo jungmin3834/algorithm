@@ -7,7 +7,7 @@
 # 문제 링크  
 ## https://leetcode.com/problems/jump-game/
 
-![title](https://github.com/jungmin3834/algorithm/blob/master/image/jump-game.png)
+![title](https://github.com/jungmin3834/algorithm/blob/master/image/jump-game.JPG)
 
 # 코드
 

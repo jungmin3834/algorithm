@@ -5,7 +5,7 @@
 ## 문제 링크  
 ## https://leetcode.com/problems/backspace-string-compare/
 
-![title](https://github.com/jungmin3834/algorithm/blob/master/image/backspace-string-compare.jpg)
+![title](https://github.com/jungmin3834/algorithm/blob/master/image/backspace-string-compare.JPG)
 
 ## 코드
 

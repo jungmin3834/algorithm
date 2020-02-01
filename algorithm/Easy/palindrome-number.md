@@ -5,7 +5,7 @@ palindrome-number
 
   https://leetcode.com/problems/palindrome-number/
 
-![title](https://github.com/jungmin3834/algorithm/blob/master/image/palindrome-number.png)
+![title](https://github.com/jungmin3834/algorithm/blob/master/image/palindrome-number.JPG)
 
 
 #소스 코드

@@ -5,7 +5,7 @@
 
 ##https://leetcode.com/problems/longest-palindrome/
 
-![title](https://github.com/jungmin3834/algorithm/blob/master/image/longest-palindrome.png)
+![title](https://github.com/jungmin3834/algorithm/blob/master/image/longest-palindrome.JPG)
 
 
 ```cpp
