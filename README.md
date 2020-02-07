@@ -12,4 +12,4 @@
  https://leetcode.com/discuss/interview-question/481968/amazon-interview-problems-list-updated
  
  # 집중 유형 
- dp , greedy 에 초점을 맞춰서 
+ 위 링크의 문제들 위주로 풀면서 배워가기
