@@ -11,8 +11,42 @@ https://leetcode.com/problems/jump-game-iii/
 
 ![title](https://github.com/jungmin3834/algorithm/blob/master/image/jump-game-iii.png)
 
-# 코드
+# 코드  
 
+재귀함수 솔루션  
+```cpp
+
+class Solution {
+public:
+bool searchReach(vector<bool>& veclist , vector<int>& arr , int start , int size)
+{
+	if (veclist[start] == true)
+		return false;
+	else if (arr[start] == 0)
+		return true;
+	
+		veclist[start] = true;
+    
+	if (start + arr[start] < size && searchReach(veclist, arr, start + arr[start], size) == true)
+		return true;
+	if (start - arr[start] > -1 && searchReach(veclist, arr, start - arr[start], size) == true)
+		return true;
+    
+	return false;
+}
+
+
+bool canReach(vector<int>& arr, int start) {
+
+	int size = arr.size();
+	vector<bool> veclist = vector<bool>(size, false);
+	return searchReach(veclist, arr, start,arr.size());
+}
+};
+
+```
+
+재귀 없이 제작한 솔루션   
 ```cpp
 
 class Solution {
