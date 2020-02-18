@@ -1,10 +1,10 @@
-# Algorithm 문제 정리
+﻿# Algorithm 문제 정리
   LeetCode 사이트 알고리즘 문제 풀이들을 정리 및 저장하는 장소 입니다.
 # 사이트 주소 : 
 ## https://leetcode.com/
 
 # 프로필 
-## https://leetcode.com/sbj3834/
+## https://leetcode.com/_aid/
 
  
   풀어볼 문제 리스트 정리집 
