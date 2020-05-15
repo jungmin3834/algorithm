@@ -6,6 +6,8 @@
 # 프로필 
 ## https://leetcode.com/_aid/
 
+6월 전까지 쉴 예정
+
  
   풀어볼 문제 리스트 정리집 
   - 출처 LeetCode - 
